@@ -1,1 +1,3 @@
 "Name: {Piotr Zabdyr}"
+"University.PJATK"
+"student id:{s37900}"
